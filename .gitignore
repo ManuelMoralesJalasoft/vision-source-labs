@@ -1,0 +1,8 @@
+.vs/
+.vscode/
+.config/
+
+PublishProfiles/
+bin/
+obj/
+*.user
