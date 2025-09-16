@@ -9,7 +9,7 @@
 3. **Did you have any problem at the moment to run the app locally?**
    I didn't have any major issues running the DNN environment locally. The only minor issue was connecting to the SQL database: I ended up using SQL Express with Docker because I didn't have credentials for my locally installed database.
 
-4. **Paste a screenshot of Vision Source Site running locally.**
+4. **Paste a screenshot of DNN running locally.**
 [![DNN Locally](./images/dnn.png)](./images/dnn.png)
 [![ToDo App Locally](./images/todo.png)](./images/todo.png)
 
